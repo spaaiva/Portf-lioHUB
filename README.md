@@ -16,8 +16,6 @@ O objetivo principal foi construir uma plataforma centralizada (`PortfolioHUB`) 
 | **PortfolioHUB (Site)** | Meu portfólio digital finalizado. | [https://portfolihubsamyllapaiva.my.canva.site/](https://portfolihubsamyllapaiva.my.canva.site/) |
 | **Repositório GitHub** | Código-fonte e documentação deste projeto. | [https://github.com/spaaiva/Portf-lioHUB](https://github.com/spaaiva/Portf-lioHUB) |
 | **Perfil LinkedIn** | Integração e compartilhamento de projetos no perfil profissional. | [https://www.linkedin.com/in/samylla-paiva-2b59a5263/](https://www.linkedin.com/in/samylla-paiva-2b59a5263/) |
-| **Vídeo Apresentação (Intermediária)** | Demonstração do versionamento e organização do repositório. | [https://youtu.be/Kr-foJWnHus](https://youtu.be/Kr-foJWnHus) |
-| **Vídeo Apresentação (Final)** | Demonstração da implantação final e uso da IA GEMINI. | **[Insira aqui o link do vídeo da Entrega Final]** |
 
 ---
 
